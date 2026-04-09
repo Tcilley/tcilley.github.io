@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tcilley.github.io/sitemap.xml
